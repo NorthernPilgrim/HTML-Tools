@@ -1,5 +1,7 @@
 Vibecoded LUT Converter. 
 
+Converts cube to png, png to cube, cube to cube and png to png.
+
 Supports PNG 512, 4096, both HALD and OBS GRID. 
 
 Supports .cube. 
