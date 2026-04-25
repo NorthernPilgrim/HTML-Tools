@@ -1,6 +1,10 @@
+<img width="670" height="1280" alt="Interface" src="https://github.com/user-attachments/assets/e1e61dad-128e-4d20-a1c1-50d653b3a2b3" />
+
 Vibecoded LUT Converter. 
 
 Converts cube to png, png to cube, cube to cube and png to png.
+
+Just open in browser and it works.
 
 Supports PNG 512, 4096, both HALD and OBS GRID. 
 
