@@ -19,6 +19,6 @@ Inverts `.cube`, OBS, Hald, and `.3dl` LUTs.
 ### LUT Xerox
 Advanced program to copy a grainy vignetted LUT from anywhere.
 
-### HTML Packer
-Packs multiple text files into a single `.HTML`.
+### HTML Packer + HTML Unpacker
+Pack multiple text files into a single `.HTML`. Unpack them later. This tool is used to publish the release in a single file.
 * **Supported extensions:** `.txt`, `.csv`, `.html`, `.css`, `.js`, `.json`, `.xml`, `.md`, `.php`, `.py`, `.yaml`, `.m3u8`
