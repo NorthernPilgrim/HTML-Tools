@@ -20,5 +20,5 @@ Inverts `.cube`, OBS, Hald, and `.3dl` LUTs.
 Advanced program to copy a grainy vignetted LUT from anywhere.
 
 ### HTML Packer
-Packs multiple text files into a single `pack.txt`.
+Packs multiple text files into a single `.HTML`.
 * **Supported extensions:** `.txt`, `.csv`, `.html`, `.css`, `.js`, `.json`, `.xml`, `.md`, `.php`, `.py`, `.yaml`, `.m3u8`
