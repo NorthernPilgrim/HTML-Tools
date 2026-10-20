@@ -16,7 +16,7 @@ Converts `.cube`, `.3dl`, `.PNG` OBS Grid and `.PNG` Hald LUTs in every directio
 * Tunable dithering.
 
 ### LUT Inverter
-Inverts `.cube`, OBS, Hald, and `.3dl` LUTs.
+Inverts `.cube`, `.3dl`, `.PNG` OBS Grid and `.PNG` Hald LUTs.
 > **Note:** Output LUTs aren’t suitable for professional use, as they inevitably introduce tearing. Use the output LUT as a reference for reverse engineering.
 
 ### LUT Xerox
