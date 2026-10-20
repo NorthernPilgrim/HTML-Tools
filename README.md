@@ -1,8 +1,10 @@
 # HTML Tools by Loxion
 
-A collection of portable tools to use in browser. Simple design language, responsive UI, built-in manual. Every program is a single-file .HTML designed to work 100% autonomously. Carefully vibecoded.
+> Lightweight, zero-dependency browser tools for LUT processing and file utility tasks.
 
----
+`Single-File HTML` • `100% Offline / Autonomous` • `Responsive UI` • `Built-in Manual`
+
+A collection of portable web tools built with a simple design language, carefully vibecoded.
 
 ## Tools Included
 
