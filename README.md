@@ -9,14 +9,14 @@ A collection of portable web tools built with a simple design language, carefull
 ## Tools Included
 
 ### LUT Converter
-Converts `.cube`, `.3dl`, `.PNG` OBS Grid and Hald `.PNG` LUTs in every direction.
+Converts `.cube`, `.3dl`, `.PNG` OBS Grid and Hald LUTs in every direction.
 * Generate a clean PNG LUT.
 * Batch converting.
 * Converting `.zip` folders to `.zip` folders, preserving folder structure.
 * Tunable dithering.
 
 ### LUT Inverter
-Inverts `.cube`, `.3dl`, `.PNG` OBS Grid and Hald `.PNG` LUTs.
+Inverts `.cube`, `.3dl`, `.PNG` OBS Grid and Hald LUTs.
 > **Note:** Output LUTs aren’t suitable for professional use, as they inevitably introduce tearing. Use the output LUT as a reference for reverse engineering.
 
 ### LUT Xerox
