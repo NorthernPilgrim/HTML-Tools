@@ -7,10 +7,11 @@ A collection of portable tools to use in browser. Simple design language, respon
 ## Tools Included
 
 ### LUT Converter
-Converts `.cube`, `.png`, and `.3dl` LUTs in every direction.
-* Supports batch converting.
-* Supports converting `.zip` folders to `.zip` folders, preserving folder structure.
-* Supports tunable dithering.
+Converts `.cube`, `.3dl`, `.PNG` OBS Grid and `.PNG` Hald LUTs in every direction.
+* Generate a clean PNG LUT.
+* Batch converting.
+* Converting `.zip` folders to `.zip` folders, preserving folder structure.
+* Tunable dithering.
 
 ### LUT Inverter
 Inverts `.cube`, OBS, Hald, and `.3dl` LUTs.
